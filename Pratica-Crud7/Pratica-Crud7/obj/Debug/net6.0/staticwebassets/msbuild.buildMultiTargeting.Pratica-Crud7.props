@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Pratica-Crud7.props" />
+</Project>

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ampdFp1CaEWFbM9wvZl4HwTNyUB6+DciJEYjiMnClCujL1sTD5vlLroD2g014OunnArmRy8fbf9pmpbtlJbBrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\felip\\OneDrive\\Documentos\\GitHub\\provaPratica\\Pratica-Crud7\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\6.0.15\\microsoft.aspnetcore.authentication.negotiate.6.0.15.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\6.0.15\\microsoft.aspnetcore.connections.abstractions.6.0.15.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.extensions.features\\6.0.15\\microsoft.extensions.features.6.0.15.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\system.directoryservices.protocols\\6.0.1\\system.directoryservices.protocols.6.0.1.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
