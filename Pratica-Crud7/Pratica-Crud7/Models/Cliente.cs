@@ -1,4 +1,6 @@
-﻿namespace Pratica_Crud7.Models
+﻿using System.Drawing;
+
+namespace Pratica_Crud7.Models
 {
     public class Cliente
     {
@@ -9,5 +11,10 @@
         public string Email { get; set; }
 
         public bool Ativo { get; set; }
+
+        public string hora = DateTime.Now.ToString();
+        public string data = DateTime.Now.ToShortDateString();
+
+
     }
 }
