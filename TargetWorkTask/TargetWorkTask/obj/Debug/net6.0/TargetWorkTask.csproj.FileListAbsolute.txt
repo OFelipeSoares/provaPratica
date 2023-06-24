@@ -265,3 +265,9 @@ C:\Users\felip\OneDrive\Documentos\GitHub\provaPratica\TargetWorkTask\TargetWork
 C:\Users\felip\OneDrive\Documentos\GitHub\provaPratica\TargetWorkTask\TargetWorkTask\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\felip\OneDrive\Documentos\GitHub\provaPratica\TargetWorkTask\TargetWorkTask\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\felip\OneDrive\Documentos\GitHub\provaPratica\TargetWorkTask\TargetWorkTask\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\provaPratica\TargetWorkTask\TargetWorkTask\obj\Debug\net6.0\TargetWorkTask.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\felip\OneDrive\Documentos\GitHub\provaPratica\TargetWorkTask\TargetWorkTask\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\provaPratica\TargetWorkTask\TargetWorkTask\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\provaPratica\TargetWorkTask\TargetWorkTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\provaPratica\TargetWorkTask\TargetWorkTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\felip\OneDrive\Documentos\GitHub\provaPratica\TargetWorkTask\TargetWorkTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
