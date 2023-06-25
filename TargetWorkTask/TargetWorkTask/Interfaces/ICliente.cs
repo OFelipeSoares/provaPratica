@@ -4,8 +4,8 @@ namespace TargetWorkTask.Interfaces
 {
     public interface ICliente : IGeneric<Cliente>
     {
-        Task AdicionarClinete(Cliente objeto);
-        Task<Cliente> BuscarClinete(int Id);
+        Task AdicionarCliente(Cliente objeto);
+        Task<Cliente> BuscarCliente(int Id);
         Task<List<Cliente>> ListarClientes();
     }
 }

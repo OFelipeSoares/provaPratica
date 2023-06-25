@@ -9,7 +9,7 @@ using TargetWorkTask.Models;
 
 namespace TargetWorkTask.Migrations
 {
-    [DbContext(typeof(BancoDeDados))]
+    [DbContext(typeof(BancoDeDadosModelSnapshot))]
     partial class BancoDeDadosModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
