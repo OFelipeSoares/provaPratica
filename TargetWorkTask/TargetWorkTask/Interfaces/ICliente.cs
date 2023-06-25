@@ -1,6 +1,11 @@
-﻿namespace TargetWorkTask.Interfaces
+﻿using TargetWorkTask.Models;
+
+namespace TargetWorkTask.Interfaces
 {
-    public interface ICliente
+    public interface ICliente : IGeneric<Cliente>
     {
+        Task AdicionarClinete(Cliente objeto);
+        Task<Cliente> BuscarClinete(int Id);
+        Task<List<Cliente>> ListarClientes();
     }
 }
