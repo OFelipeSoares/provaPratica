@@ -64,7 +64,6 @@ namespace TargetWorkTask.Repositório
             }
         }
     }
-/*
     #region Disposed https://docs.microsoft.com/pt-br/dotnet/standard/garbage-collection/implementing-dispose
     // Flag: Has Dispose already been called?
     bool disposed = false;
@@ -95,7 +94,5 @@ namespace TargetWorkTask.Repositório
         disposed = true;
     }
     #endregion
-   
-    */
 }
 
